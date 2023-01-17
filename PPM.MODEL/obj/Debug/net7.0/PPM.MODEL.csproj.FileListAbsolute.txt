@@ -1,0 +1,24 @@
+C:\Users\SMandlole\PPM-3\PPM.MODEL\bin\Debug\net7.0\PPM.MODEL.deps.json
+C:\Users\SMandlole\PPM-3\PPM.MODEL\bin\Debug\net7.0\PPM.MODEL.dll
+C:\Users\SMandlole\PPM-3\PPM.MODEL\bin\Debug\net7.0\PPM.MODEL.pdb
+C:\Users\SMandlole\PPM-3\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.csproj.AssemblyReference.cache
+C:\Users\SMandlole\PPM-3\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMandlole\PPM-3\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.AssemblyInfoInputs.cache
+C:\Users\SMandlole\PPM-3\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.AssemblyInfo.cs
+C:\Users\SMandlole\PPM-3\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\SMandlole\PPM-3\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.dll
+C:\Users\SMandlole\PPM-3\PPM.MODEL\obj\Debug\net7.0\refint\PPM.MODEL.dll
+C:\Users\SMandlole\PPM-3\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.pdb
+C:\Users\SMandlole\PPM-3\PPM.MODEL\obj\Debug\net7.0\ref\PPM.MODEL.dll
+C:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MODEL\bin\Debug\net7.0\PPM.MODEL.deps.json
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MODEL\bin\Debug\net7.0\PPM.MODEL.dll
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MODEL\bin\Debug\net7.0\PPM.MODEL.pdb
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.csproj.AssemblyReference.cache
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.AssemblyInfoInputs.cache
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.AssemblyInfo.cs
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.csproj.CoreCompileInputs.cache
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.dll
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MODEL\obj\Debug\net7.0\refint\PPM.MODEL.dll
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MODEL\obj\Debug\net7.0\PPM.MODEL.pdb
+C:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MODEL\obj\Debug\net7.0\ref\PPM.MODEL.dll

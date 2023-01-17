@@ -1,0 +1,34 @@
+C:\Users\SMandlole\PPM-3\PPM.UI\bin\Debug\net7.0\PPM.UI.deps.json
+C:\Users\SMandlole\PPM-3\PPM.UI\bin\Debug\net7.0\PPM.UI.dll
+C:\Users\SMandlole\PPM-3\PPM.UI\bin\Debug\net7.0\PPM.UI.pdb
+C:\Users\SMandlole\PPM-3\PPM.UI\bin\Debug\net7.0\PPM.DOMAIN.dll
+C:\Users\SMandlole\PPM-3\PPM.UI\bin\Debug\net7.0\PPM.MODEL.dll
+C:\Users\SMandlole\PPM-3\PPM.UI\bin\Debug\net7.0\PPM.DOMAIN.pdb
+C:\Users\SMandlole\PPM-3\PPM.UI\bin\Debug\net7.0\PPM.MODEL.pdb
+C:\Users\SMandlole\PPM-3\PPM.UI\obj\Debug\net7.0\PPM.UI.csproj.AssemblyReference.cache
+C:\Users\SMandlole\PPM-3\PPM.UI\obj\Debug\net7.0\PPM.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMandlole\PPM-3\PPM.UI\obj\Debug\net7.0\PPM.UI.AssemblyInfoInputs.cache
+C:\Users\SMandlole\PPM-3\PPM.UI\obj\Debug\net7.0\PPM.UI.AssemblyInfo.cs
+C:\Users\SMandlole\PPM-3\PPM.UI\obj\Debug\net7.0\PPM.UI.csproj.CoreCompileInputs.cache
+C:\Users\SMandlole\PPM-3\PPM.UI\obj\Debug\net7.0\PPM.UI.csproj.CopyComplete
+C:\Users\SMandlole\PPM-3\PPM.UI\obj\Debug\net7.0\PPM.UI.dll
+C:\Users\SMandlole\PPM-3\PPM.UI\obj\Debug\net7.0\refint\PPM.UI.dll
+C:\Users\SMandlole\PPM-3\PPM.UI\obj\Debug\net7.0\PPM.UI.pdb
+C:\Users\SMandlole\PPM-3\PPM.UI\obj\Debug\net7.0\ref\PPM.UI.dll
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.UI\bin\Debug\net7.0\PPM.UI.deps.json
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.UI\bin\Debug\net7.0\PPM.UI.dll
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.UI\bin\Debug\net7.0\PPM.UI.pdb
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.UI\bin\Debug\net7.0\PPM.DOMAIN.dll
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.UI\bin\Debug\net7.0\PPM.MODEL.dll
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.UI\bin\Debug\net7.0\PPM.DOMAIN.pdb
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.UI\bin\Debug\net7.0\PPM.MODEL.pdb
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.UI\obj\Debug\net7.0\PPM.UI.csproj.AssemblyReference.cache
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.UI\obj\Debug\net7.0\PPM.UI.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.UI\obj\Debug\net7.0\PPM.UI.AssemblyInfoInputs.cache
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.UI\obj\Debug\net7.0\PPM.UI.AssemblyInfo.cs
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.UI\obj\Debug\net7.0\PPM.UI.csproj.CoreCompileInputs.cache
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.UI\obj\Debug\net7.0\PPM.UI.csproj.CopyComplete
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.UI\obj\Debug\net7.0\PPM.UI.dll
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.UI\obj\Debug\net7.0\refint\PPM.UI.dll
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.UI\obj\Debug\net7.0\PPM.UI.pdb
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.UI\obj\Debug\net7.0\ref\PPM.UI.dll

@@ -1,0 +1,44 @@
+C:\Users\SMandlole\PPM-3\PPM.MAIN\obj\Debug\net7.0\PPM.MAIN.csproj.AssemblyReference.cache
+C:\Users\SMandlole\PPM-3\PPM.MAIN\obj\Debug\net7.0\PPM.MAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMandlole\PPM-3\PPM.MAIN\obj\Debug\net7.0\PPM.MAIN.AssemblyInfoInputs.cache
+C:\Users\SMandlole\PPM-3\PPM.MAIN\obj\Debug\net7.0\PPM.MAIN.AssemblyInfo.cs
+C:\Users\SMandlole\PPM-3\PPM.MAIN\obj\Debug\net7.0\PPM.MAIN.csproj.CoreCompileInputs.cache
+C:\Users\SMandlole\PPM-3\PPM.MAIN\bin\Debug\net7.0\PPM.MAIN.exe
+C:\Users\SMandlole\PPM-3\PPM.MAIN\bin\Debug\net7.0\PPM.MAIN.deps.json
+C:\Users\SMandlole\PPM-3\PPM.MAIN\bin\Debug\net7.0\PPM.MAIN.runtimeconfig.json
+C:\Users\SMandlole\PPM-3\PPM.MAIN\bin\Debug\net7.0\PPM.MAIN.dll
+C:\Users\SMandlole\PPM-3\PPM.MAIN\bin\Debug\net7.0\PPM.MAIN.pdb
+C:\Users\SMandlole\PPM-3\PPM.MAIN\bin\Debug\net7.0\PPM.DOMAIN.dll
+C:\Users\SMandlole\PPM-3\PPM.MAIN\bin\Debug\net7.0\PPM.MODEL.dll
+C:\Users\SMandlole\PPM-3\PPM.MAIN\bin\Debug\net7.0\PPM.UI.dll
+C:\Users\SMandlole\PPM-3\PPM.MAIN\bin\Debug\net7.0\PPM.UI.pdb
+C:\Users\SMandlole\PPM-3\PPM.MAIN\bin\Debug\net7.0\PPM.DOMAIN.pdb
+C:\Users\SMandlole\PPM-3\PPM.MAIN\bin\Debug\net7.0\PPM.MODEL.pdb
+C:\Users\SMandlole\PPM-3\PPM.MAIN\obj\Debug\net7.0\PPM.MAIN.csproj.CopyComplete
+C:\Users\SMandlole\PPM-3\PPM.MAIN\obj\Debug\net7.0\PPM.MAIN.dll
+C:\Users\SMandlole\PPM-3\PPM.MAIN\obj\Debug\net7.0\refint\PPM.MAIN.dll
+C:\Users\SMandlole\PPM-3\PPM.MAIN\obj\Debug\net7.0\PPM.MAIN.pdb
+C:\Users\SMandlole\PPM-3\PPM.MAIN\obj\Debug\net7.0\PPM.MAIN.genruntimeconfig.cache
+C:\Users\SMandlole\PPM-3\PPM.MAIN\obj\Debug\net7.0\ref\PPM.MAIN.dll
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MAIN\bin\Debug\net7.0\PPM.MAIN.exe
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MAIN\bin\Debug\net7.0\PPM.MAIN.deps.json
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MAIN\bin\Debug\net7.0\PPM.MAIN.runtimeconfig.json
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MAIN\bin\Debug\net7.0\PPM.MAIN.dll
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MAIN\bin\Debug\net7.0\PPM.MAIN.pdb
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MAIN\bin\Debug\net7.0\PPM.DOMAIN.dll
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MAIN\bin\Debug\net7.0\PPM.MODEL.dll
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MAIN\bin\Debug\net7.0\PPM.UI.dll
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MAIN\bin\Debug\net7.0\PPM.UI.pdb
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MAIN\bin\Debug\net7.0\PPM.DOMAIN.pdb
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MAIN\bin\Debug\net7.0\PPM.MODEL.pdb
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MAIN\obj\Debug\net7.0\PPM.MAIN.csproj.AssemblyReference.cache
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MAIN\obj\Debug\net7.0\PPM.MAIN.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MAIN\obj\Debug\net7.0\PPM.MAIN.AssemblyInfoInputs.cache
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MAIN\obj\Debug\net7.0\PPM.MAIN.AssemblyInfo.cs
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MAIN\obj\Debug\net7.0\PPM.MAIN.csproj.CoreCompileInputs.cache
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MAIN\obj\Debug\net7.0\PPM.MAIN.csproj.CopyComplete
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MAIN\obj\Debug\net7.0\PPM.MAIN.dll
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MAIN\obj\Debug\net7.0\refint\PPM.MAIN.dll
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MAIN\obj\Debug\net7.0\PPM.MAIN.pdb
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MAIN\obj\Debug\net7.0\PPM.MAIN.genruntimeconfig.cache
+c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.MAIN\obj\Debug\net7.0\ref\PPM.MAIN.dll
