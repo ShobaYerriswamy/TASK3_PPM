@@ -28,3 +28,18 @@ c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.DOMAIN\ob
 c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.DOMAIN\obj\Debug\net7.0\refint\PPM.DOMAIN.dll
 c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.DOMAIN\obj\Debug\net7.0\PPM.DOMAIN.pdb
 c:\Users\SMandlole\Downloads\PPM-TASK3-master (1)\PPM-TASK3-master\PPM.DOMAIN\obj\Debug\net7.0\ref\PPM.DOMAIN.dll
+c:\Users\SMandlole\PPM-TASK3-master\PPM.DOMAIN\bin\Debug\net7.0\PPM.DOMAIN.deps.json
+c:\Users\SMandlole\PPM-TASK3-master\PPM.DOMAIN\bin\Debug\net7.0\PPM.DOMAIN.dll
+c:\Users\SMandlole\PPM-TASK3-master\PPM.DOMAIN\bin\Debug\net7.0\PPM.DOMAIN.pdb
+c:\Users\SMandlole\PPM-TASK3-master\PPM.DOMAIN\bin\Debug\net7.0\PPM.MODEL.dll
+c:\Users\SMandlole\PPM-TASK3-master\PPM.DOMAIN\bin\Debug\net7.0\PPM.MODEL.pdb
+c:\Users\SMandlole\PPM-TASK3-master\PPM.DOMAIN\obj\Debug\net7.0\PPM.DOMAIN.csproj.AssemblyReference.cache
+c:\Users\SMandlole\PPM-TASK3-master\PPM.DOMAIN\obj\Debug\net7.0\PPM.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SMandlole\PPM-TASK3-master\PPM.DOMAIN\obj\Debug\net7.0\PPM.DOMAIN.AssemblyInfoInputs.cache
+c:\Users\SMandlole\PPM-TASK3-master\PPM.DOMAIN\obj\Debug\net7.0\PPM.DOMAIN.AssemblyInfo.cs
+c:\Users\SMandlole\PPM-TASK3-master\PPM.DOMAIN\obj\Debug\net7.0\PPM.DOMAIN.csproj.CoreCompileInputs.cache
+c:\Users\SMandlole\PPM-TASK3-master\PPM.DOMAIN\obj\Debug\net7.0\PPM.DOMAIN.csproj.CopyComplete
+c:\Users\SMandlole\PPM-TASK3-master\PPM.DOMAIN\obj\Debug\net7.0\PPM.DOMAIN.dll
+c:\Users\SMandlole\PPM-TASK3-master\PPM.DOMAIN\obj\Debug\net7.0\refint\PPM.DOMAIN.dll
+c:\Users\SMandlole\PPM-TASK3-master\PPM.DOMAIN\obj\Debug\net7.0\PPM.DOMAIN.pdb
+c:\Users\SMandlole\PPM-TASK3-master\PPM.DOMAIN\obj\Debug\net7.0\ref\PPM.DOMAIN.dll

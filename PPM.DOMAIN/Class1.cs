@@ -244,7 +244,7 @@ namespace Domain
             }
         }
 
-        public Boolean Exists(int roleId)
+        public Boolean Exist(int roleId)
         {
             for (int i = 0; i < roleList.Count; i++)
             {

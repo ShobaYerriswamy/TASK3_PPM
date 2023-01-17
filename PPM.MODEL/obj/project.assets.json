@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SMandlole\\Downloads\\PPM-TASK3-master (1)\\PPM-TASK3-master\\PPM.MODEL\\PPM.MODEL.csproj",
+      "projectUniqueName": "C:\\Users\\SMandlole\\PPM-TASK3-master\\PPM.MODEL\\PPM.MODEL.csproj",
       "projectName": "PPM.MODEL",
-      "projectPath": "C:\\Users\\SMandlole\\Downloads\\PPM-TASK3-master (1)\\PPM-TASK3-master\\PPM.MODEL\\PPM.MODEL.csproj",
+      "projectPath": "C:\\Users\\SMandlole\\PPM-TASK3-master\\PPM.MODEL\\PPM.MODEL.csproj",
       "packagesPath": "C:\\Users\\SMandlole\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SMandlole\\Downloads\\PPM-TASK3-master (1)\\PPM-TASK3-master\\PPM.MODEL\\obj\\",
+      "outputPath": "C:\\Users\\SMandlole\\PPM-TASK3-master\\PPM.MODEL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SMandlole\\AppData\\Roaming\\NuGet\\NuGet.Config"

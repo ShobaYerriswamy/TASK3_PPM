@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SMandlole\\Downloads\\PPM-TASK3-master (1)\\PPM-TASK3-master\\PPM.DOMAIN\\PPM.DOMAIN.csproj",
+      "projectUniqueName": "C:\\Users\\SMandlole\\PPM-TASK3-master\\PPM.DOMAIN\\PPM.DOMAIN.csproj",
       "projectName": "PPM.DOMAIN",
-      "projectPath": "C:\\Users\\SMandlole\\Downloads\\PPM-TASK3-master (1)\\PPM-TASK3-master\\PPM.DOMAIN\\PPM.DOMAIN.csproj",
+      "projectPath": "C:\\Users\\SMandlole\\PPM-TASK3-master\\PPM.DOMAIN\\PPM.DOMAIN.csproj",
       "packagesPath": "C:\\Users\\SMandlole\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SMandlole\\Downloads\\PPM-TASK3-master (1)\\PPM-TASK3-master\\PPM.DOMAIN\\obj\\",
+      "outputPath": "C:\\Users\\SMandlole\\PPM-TASK3-master\\PPM.DOMAIN\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SMandlole\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\SMandlole\\Downloads\\PPM-TASK3-master (1)\\PPM-TASK3-master\\PPM.MODEL\\PPM.MODEL.csproj": {
-              "projectPath": "C:\\Users\\SMandlole\\Downloads\\PPM-TASK3-master (1)\\PPM-TASK3-master\\PPM.MODEL\\PPM.MODEL.csproj"
+            "C:\\Users\\SMandlole\\PPM-TASK3-master\\PPM.MODEL\\PPM.MODEL.csproj": {
+              "projectPath": "C:\\Users\\SMandlole\\PPM-TASK3-master\\PPM.MODEL\\PPM.MODEL.csproj"
             }
           }
         }
